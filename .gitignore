@@ -1,0 +1,5 @@
+node_modules/
+.next
+*-error.log
+*lock.json
+yarn.lock
